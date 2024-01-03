@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+  }
+
+  .container {
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+
+  h2 {
+    color: #007bff;
+  }
+
+  form {
+    margin-bottom: 20px;
+  }
+
+  .list-group-item {
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+  }
+
+  .list-group-item:hover {
+    background-color: #ffeeba;
+  }
